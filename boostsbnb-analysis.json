@@ -1,0 +1,49 @@
+{
+  "platform": {
+    "name": "Photo Enhancer for Airbnb Listings | Boostbnb",
+    "url": "https://boostsbnb.com/",
+    "mainTagline": "Boost RentalAirbnb Photoswith Pro AI in a Flash"
+  },
+  "features": [],
+  "pricing": {
+    "pageExists": true,
+    "content": "!function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if(e){c.add(e|| '')}else{c.add('light');}if(e==='light'||e==='dark'||!e)d.style.colorScheme=e||'light'}catch(t){}}();Your Property Photos Can Boost Rental Value by 40% - New EditionI'm inBoostbnbFeaturesHow It WorksPricingLoginSign UpFeaturesHow It WorksPricingLoginSign UpYour Property Photos Can Boost Rental Value by 40% - New EditionI'm inBoostbnbFeaturesHow It WorksPricing"
+  },
+  "statistics": {
+    "percentages": ["40%", "32%", "25%"],
+    "mentions": {
+      "32% faster booking": 1,
+      "25% increased rates": 1,
+      "40% boost": 1
+    }
+  },
+  "technology": {
+    "externalScripts": 18,
+    "scriptSources": [
+      "/_next/static/chunks/59c6eb5a-7bb5c935e6f2b93d.js",
+      "/_next/static/chunks/1dd3208c-7845993a99cacd48.js",
+      "/_next/static/chunks/8567-a76b10e1bce8081d.js",
+      "/_next/static/chunks/main-app-f452c160fe4679c5.js",
+      "/_next/static/chunks/5469-0217c298e8db1fca.js",
+      "/_next/static/chunks/1486-a29d0f312a58478a.js",
+      "/_next/static/chunks/2882-d80b12e45060e3c8.js",
+      "/_next/static/chunks/app/%5Blocale%5D/(public)/(landing)/layout-6458a5faf405d013.js",
+      "/_next/static/chunks/5871-a9d3d0dccd67afde.js",
+      "/_next/static/chunks/app/%5Blocale%5D/layout-75daf1c208e09e6b.js"
+    ],
+    "pageSize": 58415,
+    "apiUsage": ["google", "facebook"]
+  },
+  "content": {
+    "aiFeatures": [
+      "Sky Replacement",
+      "Brighten Dark Photos",
+      "Enhance Color Vibrancy",
+      "Upscale Images",
+      "Perfect Lighting",
+      "Smart Corrections",
+      "Batch Processing"
+    ],
+    "testimonials": []
+  }
+}
